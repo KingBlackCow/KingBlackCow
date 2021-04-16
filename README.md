@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
++ Dongguk University, MultiMedia Enginnering
+  +2015 ~ 2021
++Samsung SW Academy For Youth - 5th
+  +2021 ~ now
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgs1159)](https://solved.ac/sgs1159/)
