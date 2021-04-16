@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 #  ✨ZeronSoftN✨
   ###  2020.7 ~ 2020.12 😄
   ------------
-# + ✨Samsung SW Academy For Youth - 5th✨
+#  ✨Samsung SW Academy For Youth - 5th✨
   ###  2021.1 ~ now 😄
 
 ------------
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgs1159)](https://solved.ac/sgs1159/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KingBlackCow)](https://github.com/anuraghazra/github-readme-stats)
