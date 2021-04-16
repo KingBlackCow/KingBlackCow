@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-+ ✨Dongguk University, MultiMedia Enginnering✨
+# + ✨Dongguk University, MultiMedia Enginnering✨
   + 2015 ~ 2021 😄
-+ ✨Samsung SW Academy For Youth - 5th✨
+# + ✨Samsung SW Academy For Youth - 5th✨
   + 2021 ~ now 😄
 
 ------------
