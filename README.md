@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgs1159)](https://solved.ac/sgs1159/)<br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KingBlackCow)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-brightgreen?style=flat-square&logo=Java&logoColor=white"/></a>
 
   
