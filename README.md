@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Java-brightgreen?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-  
+<img src="https://img.shields.io/badge/Node.js-orange?style=flat-square&logo=Node.js&logoColor=white"/></a>
+
