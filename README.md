@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   ####  2021.1 ~ now 
 
 ------------
-<p align="center">
+
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgs1159)](https://solved.ac/sgs1159/)
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KingBlackCow)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
