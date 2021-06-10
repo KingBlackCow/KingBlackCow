@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###✨Dongguk University, MultiMedia Enginnering✨
+### ✨Dongguk University, MultiMedia Enginnering✨
   ####  - 2015.3 ~ 2021.2 
 ###  ✨ZeronSoftN✨
   ####  - 2020.7 ~ 2020.12 
