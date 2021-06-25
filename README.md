@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 #### ✨Dongguk University, MultiMedia Enginnering✨
-  #####  - 2015.03 ~ 2021.02 
+  #####  - 2015.03 ~ 2021.02
+####  ✨Dongguk IoT lab✨
+  #####  - 2019.06 ~ 2020.06 
 ####  ✨ZeronSoftN✨
   #####  - 2020.07 ~ 2020.12 
 ####  ✨Samsung SW Academy For Youth - 5th✨
