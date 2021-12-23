@@ -14,25 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-#### ✨Dongguk University, MultiMedia Enginnering✨
-  #####  - 2015.03 ~ 2021.02
-####  ✨Dongguk IoT lab✨
-  #####  - 2019.06 ~ 2020.06 
-####  ✨ZeronSoftN✨
-  #####  - 2020.07 ~ 2020.12 
-####  ✨Samsung SW Academy For Youth - 5th✨
-  #####  - 2021.01 ~ 2021.12
-####  ✨Dealicious✨
-  #####  - 2022.01 ~ now
-
-------------
-
+<div align="center">
+  <div align="left">
+   ✨Dongguk University, MultiMedia Enginnering  (2015.03 ~ 2021.02)✨<br>
+   ✨Dongguk IoT lab (2019.06 ~ 2020.06) ✨<br>
+   ✨ZeronSoftN (2020.07 ~ 2020.12)✨<br> 
+   ✨Samsung SW Academy For Youth - 5th (2021.01 ~ 2021.12)✨<br>
+   ✨Dealicious (2022.01 ~ now)✨<br>
+  </div>
+  <br><br>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmiteflame&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div align="center">
+
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgs1159)](https://solved.ac/sgs1159/)
-</div>
+
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -54,4 +50,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
  </p>
+ </div>
 
