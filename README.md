@@ -32,23 +32,35 @@ Here are some ideas to get you started:
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-brightgreen?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Ruby-red?style=flat-square&logo=ruby%2B%2B&logoColor=white"/></a> &nbsp <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp <br>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp<br>
-  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
- </p>
+
+	
+  #### Languages
+  
+  <div style="display: inline-block">
+  
+  <img src="https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/ruby-%23323330.svg?style=for-the-badge&logo=ruby&logoColor=red"/>
+  </div>
+    
+  #### Frameworks and Libraries
+  <img src="https://img.shields.io/badge/spring-%23323330.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vuejs-%23323330.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+  <img src="https://img.shields.io/badge/jquery-%23323330.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+  
+  #### DevOps
+  <img src="https://img.shields.io/badge/AWS-%23323330.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  
+  
+  #### Database
+  
+  <img src="https://img.shields.io/badge/mariaDB-%23323330?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgresql-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+  
+  <br>
+  <br>
+  <br>
  </div>
 
