@@ -61,9 +61,5 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
 </div> -->
 
-</td></tr></table> 
-  <br>
-  <br>
-  <br>
- </div>
+![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/a0292229-17df-4dd4-9743-87a9a8c6f627)
 
